@@ -16,7 +16,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "MUSA 620: Data Wrangling and Data Visualization"
+title: "Fianl Project: Predicting Hosue Price Increase by Neighborhood trends in Philadelphia
 title_separator: "-"
 name: "Nick Hand"
 description: "Displaying cool data visualizations"
@@ -105,9 +105,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Nick Hand"
+  name: "Anyang Zhao & Shengyuan Zheng"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
+  bio: "MUSA 620 Geospatial Data Science in Python"
   location: "Philadelphia"
   email:
   links:
