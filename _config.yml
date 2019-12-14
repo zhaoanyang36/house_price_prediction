@@ -16,7 +16,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "Fianl Project: Predicting Hosue Price Increase by Neighborhood trends in Philadelphia
+title: "Fianl Project: Predicting Hosue Price Increase by Census Tract trends in Philadelphia
 title_separator: "-"
 name: "Nick Hand"
 description: "Displaying cool data visualizations"
