@@ -26,6 +26,7 @@ We collect:
 - First, we do the geospatial join to join the sales point data with census tract polygons data.
 - We make a brief bar chart to check the median sales price in Philadelphia by years.
 ![MediansalesPrice](https://github.com/zhaoanyang36/final/blob/master/assets/images/MediansalesPrice.png)
+
 It is interesting that the 2013 have a higher median house price than 2018. We believe there are some error in it. For example, small samples and uneven distribution lead to this problem. From 2014 to 2018, overall house prices showed an upward trend, which was standing with our expectations.
 - We use the hvplot to plot a map show the median sale price by census tract with widget.
 <div id="hv-chart-1"></div>
