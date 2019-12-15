@@ -20,7 +20,7 @@ Our project can help people find the housing price increasing trend to help them
 
 ## Project Expected Deliverbale
 
- We divide our project into 4 parts
+ We divide our project into 3 parts
  
  **1. Data Collection and Data Preprocessing**
  
