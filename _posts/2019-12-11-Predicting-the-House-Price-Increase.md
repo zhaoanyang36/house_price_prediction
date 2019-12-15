@@ -58,7 +58,7 @@ For example:
 ![featureengine](https://raw.githubusercontent.com/zhaoanyang36/final/master/assets/images/featureengine.png)
 
 After we creating all the variables, we use correlation matrix to show the correlation between those numerical variables.
-![corr](https://raw.githubusercontent.com/zhaoanyang36/final/master/assets/images/corr.png)
+![corr](https://raw.githubusercontent.com/zhaoanyang36/final/master/assets/images/corr1.png)
 
 ## Regression
 Then we make a regression by random forest to predict the House Price. 
