@@ -56,6 +56,7 @@ For example:
 - Distance to 5 Closest Abandoned Vehichle 311 Calls
 
 After we creating all the variables, we use correlation matrix to show the correlation between those numerical variables.
+![corr](https://raw.githubusercontent.com/zhaoanyang36/final/master/assets/images/corr.png)
 
 ## Regression
 Then we make a regression by random forest to predict the House Price. 
