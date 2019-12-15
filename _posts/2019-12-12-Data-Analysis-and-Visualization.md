@@ -6,7 +6,7 @@ tags:
 - Data Collection
 - Altair
 - hvplot
-excerpt: "The sales data was combined with the neighborhoods tracts and it calculate the price increase percentage."
+excerpt: "The sales data was combined with the neighborhoods tracts and it calculate the price increase Rate."
 altair-loader:
   altair-chart-1: "charts/top20.json"
   altair-chart-2: "charts/scatterplot.json"
