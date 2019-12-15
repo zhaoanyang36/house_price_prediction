@@ -9,7 +9,7 @@ tags:
 - Spatial Join
 excerpt: "Collecting the Data by API and have a breif look at the median hosue price in Philadelphia from 2013 to 2015z"
 hv-loader:
-  hv-chart-1: "charts/hvplot_host_year.html"
+  hv-chart-1: "Tractmedianprice.html"
 toc: true
 toc_sticky: true
 ---
@@ -25,9 +25,9 @@ We collect 3 kind of data from url
 
 - First, we do the geospatial join to join the sales data in point with census tract polygons.
 - We make a brief bar chart to check the median sales price in Philadelphia by years.
-![MediansalesPrice](https://raw.githubusercontent.com/zhaoanyang36/final/assets/images/MediansalesPrice.png)
+![MediansalesPrice](https://github.com/zhaoanyang36/final/blob/master/assets/images/MediansalesPrice.png)
 - We use the hvplot to plot a map show the median sale price by census teact with widget.
-<div id="hv-chart-2"></div> 
+<div id="hv-chart-1"></div> 
 
 
 
