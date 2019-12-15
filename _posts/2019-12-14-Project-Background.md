@@ -36,7 +36,7 @@ Our project can help people find the housing price increasing trend to help them
 - Analyze the trends across census tracts and incorporate other data sets, e.g., Census data or data from open data philly such as new construction permits.
 - Build out a regression model with the data from the previous part, predicting the difference between the 2018 and 2013 values by census tract.
 
- ## Project Method
+## Project Method
 - **Data Collection**: API collecting
 - **Data Preprocessing**: Pandas/Numpy, Geospatial Joins
 - **Data Visulization**: Altair/hvplot
