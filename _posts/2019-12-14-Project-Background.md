@@ -2,8 +2,6 @@
 title: "Project Background"
 date: 2019-12-14
 published: true
-categories:
-  - Introduction
 tags:
   - House Price
   - Data Analysis
@@ -20,8 +18,7 @@ The housing market in Philadelphia is growing rapidly. Analyzing price trends in
 
 Our project can help people find the housing price increasing trend to help them to make decision.
 
-
- ## Project Expected Deliverbale
+## Project Expected Deliverbale
  We divide our project into 4 parts
  
  **1. Data Collection and Data Preprocessing**
