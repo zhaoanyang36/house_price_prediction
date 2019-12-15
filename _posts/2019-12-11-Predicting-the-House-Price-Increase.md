@@ -6,7 +6,7 @@ tags: [hvplot]
 excerpt: "The random forest was used in this part to make the prediction."
 hv-loader:
   hv-chart-1: "charts/MeanAbsoluteError.html"
-  hv-chart-2: "charts/PredictedPricerate.html"
+  hv-chart-2: "charts/PredictedPricerate1.html"
 toc: true
 toc_sticky: true
 ---
@@ -93,5 +93,6 @@ A testing score of 0.82 indicates that this algorithm perform well for this pred
 ## Result
 When we get the our model, it can be used for the prediction for the price increase rate from 2013 to 2018.
 <div id="hv-chart-2"></div>
+From this model, it can be seen that The predicted results are similar to the true housing price increasing rate, with higher growth rates in the city center and southwest. In our prediction, the Northeast near city center seems to have a higher growth rate than it actually is.
 Overall, our model performs well. Although there are some shortcomings, it can be used to predict the growth rate of house prices. It helps users understand the spatial trend of house price changes in Philadelphia.
 
