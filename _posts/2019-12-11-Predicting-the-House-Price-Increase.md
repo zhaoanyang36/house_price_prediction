@@ -15,7 +15,7 @@ In this part, we desire to predict the increase rate by census tract in philadel
 ## Data preprocessing
 - First, we calculate the **Price Increase percentage** and **Price percentage** for every census tract.
 ```python
-test_sales_tract18['Price Increase percentage'] = test_sales_tract18['sale_price_K']/test_sales_tract13['sale_price_K']
+test_sales_tract18['Price Increase rate'] = test_sales_tract18['sale_price_K']/test_sales_tract13['sale_price_K']
 test_sales_tract18['Price Increase'] = test_sales_tract18['sale_price_K']-test_sales_tract13['sale_price_K']
 ```
 - We collect the sales data of 2018 and select the feature columns we want to use.
