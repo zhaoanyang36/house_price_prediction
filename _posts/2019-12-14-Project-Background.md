@@ -25,9 +25,11 @@ Our project can help people find the housing price increasing trend to help them
  We divide our project into 4 parts
  
  **1. Data Collection and Data Preprocessing**
+ 
  Use the OpenDataPhilly data to calculate and visulize the median sale price for each census tract in Philadelphia from 2013 to 2018.
  
  **2. Data Analysis and Visualization**
+ 
  Calculate and Visualize the yearly median house price from 2013 to 2018 by neighborhoods. 
  
  **3. Predicting the House Price Increase**
