@@ -8,6 +8,8 @@ tags:
   - House Price
   - Data Analysis
 excerpt: "The Introduction of our Project"
+toc: true
+toc_sticky: true
 ---
 
 ## Project Motivation
