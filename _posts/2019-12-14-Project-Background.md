@@ -1,5 +1,5 @@
 ---
-title: "Part 1"
+title: "Project Background"
 date: 2019-12-14
 published: true
 tags: [hvplot]
@@ -10,9 +10,11 @@ toc: true
 toc_sticky: true
 ---
 
+The 
+
 Our group use the spatial join combined the sales price and census tract.
 
 We calculate and visualize the median sale price for each census tract from 2013 to 2018 in Philadelpha.
 
 <div id="folium-chart-1"></div>  
-----  
+
