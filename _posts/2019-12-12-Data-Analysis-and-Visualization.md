@@ -23,15 +23,15 @@ toc_sticky: true
 
 ## Data Visualization
 
-### 1. There is the top 20 highest median house price neighborhood.
+1. There is the top 20 highest median house price neighborhood.
 
 <div id="altair-chart-1"></div> 
 
-### 2. We visualize a interactive chart for median sale price and price increase groupby year and show the information of neighborhood.
+2. We visualize a interactive chart for median sale price and price increase groupby year and show the information of neighborhood.
 
 <div id="altair-chart-2"></div> 
 
-### 3. There is the median house price increase from 2013 to 2018.
+3. There is the median house price increase from 2013 to 2018.
 
 <div id="hv-chart-1"></div> 
 
