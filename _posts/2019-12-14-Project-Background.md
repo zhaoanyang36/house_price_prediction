@@ -19,6 +19,7 @@ The housing market in Philadelphia is growing rapidly. Analyzing price trends in
 Our project can help people find the housing price increasing trend to help them to make decision.
 
 ## Project Expected Deliverbale
+
  We divide our project into 4 parts
  
  **1. Data Collection and Data Preprocessing**
