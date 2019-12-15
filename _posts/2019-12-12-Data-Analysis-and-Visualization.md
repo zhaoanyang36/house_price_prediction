@@ -11,7 +11,7 @@ altair-loader:
   altair-chart-1: "charts/top20.json"
   altair-chart-2: "charts/scatterplot.json"
 hv-loader:
-  hv-chart-1: "2018increaserate.html"
+  hv-chart-1: "charts/2018increaserate.html"
 toc: true
 toc_sticky: true
 ---
