@@ -48,12 +48,14 @@ We want to improve our model by adding more variables in it. We create some feat
 For example:
 
 - Distance to the nearest university/college
+- Disrance to the nearest subway station
 - Distance to the nearest Graffiti Call
 - Distance to the nearest park centroid
 - Distance to City Hall
 - Distance to the 5 nearest new construction permits from 2018
 - Distance to 5 Closest Assaults
 - Distance to 5 Closest Abandoned Vehichle 311 Calls
+![featureengine](https://raw.githubusercontent.com/zhaoanyang36/final/master/assets/images/featureengine.png)
 
 After we creating all the variables, we use correlation matrix to show the correlation between those numerical variables.
 ![corr](https://raw.githubusercontent.com/zhaoanyang36/final/master/assets/images/corr.png)
