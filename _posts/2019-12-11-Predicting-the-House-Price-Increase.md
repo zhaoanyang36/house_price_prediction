@@ -13,7 +13,7 @@ toc_sticky: true
 In this part, we desire to predict the increase rate by census tract in philadelphia. We hope the prediction can help the different groups of people understanding the trend of the house price in specific area and help them making decision
 
 ## Data preprocessing
-- First, we calculate the **Price Increase percentage** and **Price percentage** for every census tract.
+- First, we calculate the **Price Increase Rate** and **Price Increase** for every census tract.
 ```python
 test_sales_tract18['Price Increase rate'] = test_sales_tract18['sale_price_K']/test_sales_tract13['sale_price_K']
 test_sales_tract18['Price Increase'] = test_sales_tract18['sale_price_K']-test_sales_tract13['sale_price_K']
