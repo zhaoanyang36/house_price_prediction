@@ -9,7 +9,7 @@ tags:
 excerpt: "The sales data was combined with the neighborhoods tracts and it calculate the price increase Rate."
 altair-loader:
   altair-chart-1: "charts/top20.json"
-  altair-chart-2: "charts/scatterplot.json"
+  altair-chart-2: "charts/scatterplot2.json"
 hv-loader:
   hv-chart-1: "charts/2018increaserate1.html"
 toc: true
