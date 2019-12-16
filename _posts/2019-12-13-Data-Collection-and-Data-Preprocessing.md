@@ -9,9 +9,9 @@ tags:
 - Spatial Join
 excerpt: "Collecting the Data by API and have a breif look at the median hosue price in Philadelphia from 2013 to 2015."
 hv-loader:
-  hv-chart-1: "charts/Tractmedianprice.html"
+  hv-chart-1: "charts/Tractmedianprice1.html"
 altair-loader:
-  altair-chart-1: "charts/MedianPricebyyear.json"
+  altair-chart-1: "charts/MedianPricebyyear1.json"
 toc: true
 toc_sticky: true
 ---
