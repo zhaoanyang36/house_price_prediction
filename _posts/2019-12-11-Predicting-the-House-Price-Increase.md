@@ -80,7 +80,8 @@ grid.fit(X_train, y_train)
 #our test score
 grid.score(X_test, y_test)
 ```
-> Testing Score = 0.8176629604411072      
+> Testing Score = 0.8176629604411072   
+
 A testing score of 0.82 indicates that this algorithm perform well for this predicting model. This model is instructive to be used in our project.
 
 **Second**, we plot a map of the median percent error by census tract. The percent error in terms of sale price or sale price per sq ft.
