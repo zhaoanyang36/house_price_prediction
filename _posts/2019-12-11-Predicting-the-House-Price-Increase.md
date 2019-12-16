@@ -5,7 +5,7 @@ published: true
 tags: [hvplot]
 excerpt: "The random forest was used in this part to make the prediction."
 hv-loader:
-  hv-chart-1: "charts/MeanAbsoluteError.html"
+  hv-chart-1: "charts/MeanAbsoluteError1.html"
   hv-chart-2: "charts/PredictedPricerate1.html"
 toc: true
 toc_sticky: true
