@@ -39,5 +39,5 @@ We use the median sales price and increase price as the x and y for coordinate s
 
 <div id="hv-chart-1"></div> 
 
-It can be seen that house prices in the city center and the southeast have grown very rapidly in the past five years.
+It can be seen that house prices in the city center and the southeast have grown very rapidly in the past five years. This indicates that the market here may have more potential。
 
