@@ -10,7 +10,7 @@ hv-loader:
 toc: true
 toc_sticky: true
 ---
-In this part, we desire to predict the increase rate by census tract in philadelphia. We hope the prediction can help the different groups of people understanding the trend of the house price in specific area and help them making decision
+In this part, we desire to predict the increase rate by census tracts in philadelphia. We hope the prediction can help the different groups of people understanding the trend of the house price in specific area and help them making decision.
 
 ## Data preprocessing
 - First, we calculate the **Price Increase Rate** and **Price Increase** for every census tract.
