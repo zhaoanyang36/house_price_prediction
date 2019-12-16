@@ -17,7 +17,7 @@ toc_sticky: true
 ---
 
 ## Data Analysis
-- We use the sales data spatial join with the neighborhood tract.
+- We use the sales data spatial join with each neighborhood tract.
 - We calculate the price increase and the price increase rate from 2013 to 2018 for each census tract.
 
 
