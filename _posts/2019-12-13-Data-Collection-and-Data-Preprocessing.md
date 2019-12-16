@@ -25,13 +25,17 @@ We collect:
 
 ## Data Preprocessing
 
+- We clean the data by selecting the range of the sale price. Outlier will influnence our data analysis.
+```python
+valid =  (test_sales_tract18['sale_price_K'] < 1000)
+```
 - First, we do the geospatial join to join the sales point data with census tract polygons data.
 - We make a brief bar chart to check the median sales price in Philadelphia by years.
 <div id="altair-chart-1"></div> 
-It is interesting that the 2013 have a higher median house price than 2018. We believe there are some error in it. For example, small samples and uneven distribution lead to this problem. From 2014 to 2018, overall house prices showed an upward trend, which was standing with our expectations.
+It can be seen that overall house prices showed an upward trend, which was standing with our expectations. It can be inferred from the general trend that the housing market in Philadelphia is constantly developing. Using the tooltips, we can identify the median sales price of specific year. However, we want to the see the distribution of the price in spatial.
 - We use the hvplot to plot a map show the median sale price by census tract with widget.
 <div id="hv-chart-1"></div>
-From this time change to the map, it can be seen that there is a higher distribution of house prices in northwest and southeast Philadelphia.
+From this time change to the map, it can be seen that there is a higher distribution of house prices in northeast Philadelphia. The city center and the south of the city center also have a high price. This trend has not changed significantly in the past five years. In general, the overall trend in prices varies geographically, but this differentiation has not changed significantly in census tracts.
 
 
 
