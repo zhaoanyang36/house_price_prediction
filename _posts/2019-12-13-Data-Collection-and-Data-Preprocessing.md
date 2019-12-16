@@ -37,6 +37,8 @@ It can be seen that overall house prices showed an upward trend, which was stand
 
 
 <div id="hv-chart-1"></div>
+
+
 From this time change to the map, it can be seen that there is a distribution of higher house prices in northeast Philadelphia. The city center and the south of the city center also have a high price. This trend has not changed significantly in the past five years. In general, the overall trend in prices varies geographically, but this differentiation has not changed significantly in census tracts.
 
 
