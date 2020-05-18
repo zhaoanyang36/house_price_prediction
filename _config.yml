@@ -20,7 +20,7 @@ title: "Fianl Project: Predicting Hosue Price Increase Rate by Census Tract Tren
 title_separator: "-"
 name: "Anyang Zhao"
 description: "Displaying cool data visualizations"
-url: "https://zhaoanyang36.github.io/final/"
+url: "https://zhaoanyang36.github.io/house_price_prediction/"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
